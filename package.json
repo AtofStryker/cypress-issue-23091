@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AtofStryker/cypress-issue-23091#readme",
   "devDependencies": {
-    "cypress": "^10.4.0"
+    "cypress": "^10.4.0",
+    "cypress-mochawesome-reporter": "^3.2.0"
   }
 }
